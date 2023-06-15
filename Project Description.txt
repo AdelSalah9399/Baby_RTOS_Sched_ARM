@@ -1,0 +1,9 @@
+**this project contain 3 files:
+Sched.c --> includes the Interface and static functions Implementations.
+Sched.h --> includes the Interface functions prototypes.
+Sched_cfg --> includes the Configration Macros.
+
+**the project contain 3 Tasks eachof them toggle LED with different Rate depend on its Priodecity. 
+
+**for videos please check link below
+https://drive.google.com/drive/folders/19eeyfsvUyfuDzgjv7qNL-Ax4iFMtg26X?usp=sharing
